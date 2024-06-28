@@ -3,7 +3,11 @@
 
 ## About Me
 
-dfasdf
+I am computer science student with passion of cybersecurity actively engaged in this community through CTF participation and Bug hunting, seeking continual growth and expertise in the field.
+
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as Security Engineer.
 
 ### Blogs posts
 
