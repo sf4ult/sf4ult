@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durgesh Sahu</h1>
 <h3 align="center">A am passionate Security researcher/Pentester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durge5h&label=Profile%20views&color=0e75b6&style=flat" alt="durge5h" /> </p>
-
-<p align="left"> <a href="https://twitter.com/durge5h" target="blank"><img src="https://img.shields.io/twitter/follow/durge5h?logo=twitter&style=for-the-badge" alt="durge5h" /></a> </p>
-
 ## About Me
 
 dfasdf
