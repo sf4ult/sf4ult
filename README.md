@@ -32,11 +32,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </p>
 
 <h3 align="left">Github Stacks:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durge5h&show_icons=true&locale=en&layout=compact" alt="durge5h" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="durge5h" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durge5h&show_icons=true&locale=en" alt="durge5h" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=durge5h&show_icons=true&locale=en](https://github-readme-streak-stats.herokuapp.com/?user=durge5h&theme=dark&hide_border=false)" alt="durge5h" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durge5h&" alt="durge5h" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=durge5h&](https://github-readme-stats.vercel.app/api?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="durge5h" /></p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=durge5h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
