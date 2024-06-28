@@ -8,11 +8,11 @@
 <a href="https://discord.gg/durge5h#5496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="durge5h#5496" height="30" width="40" /></a>
 </p>
 
-## About Me
+## About Me 🙋‍♂️
 
 I am computer science student with passion of cybersecurity actively engaged in this community through CTF participation and Bug hunting, seeking continual growth and expertise in the field.
-
-### Skills
+ 
+### Skills 🛠️
 
 * Web Application Security Testing
 * API Security Testing
@@ -21,12 +21,12 @@ I am computer science student with passion of cybersecurity actively engaged in 
 
 This list is not exhaustive, and I'm always looking to learn new skills. 
 
-### Currently Learning
+### Currently Learning 📚
 
 * DevSecOps
 * Cloud Security
 
-## Write-Ups
+## Write-Ups 🅱️ ✍
 
 [CTF Writeup: CICD GOAT | Part 1](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)\
 [Honing The Scripting: AdventOfCode-2015[:5]](https://sf4ult.github.io/2024/03/29/post9/AdventOfCode-2015/)\
