@@ -11,17 +11,16 @@ dfasdf
 
 ### Blogs posts
 
-
-    [CTF Writeup: CICD GOAT | Part 1](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)
-    Honing The Scripting: AdventOfCode-2015[:5]
-    CTF WriteUp: Pentathon 2024
-    CTF WriteUp: VishwaCTF 2024
-    CTF WriteUp: TFC CTF 2023
-    CTF WriteUp: BDSec 2023
-    CTF WriteUp: WaniCTF 2023
-    CTF WriteUp: HTB CA 2023
-    Boot2Root CTF WriteUp : Pwn2Own
-    TryHackMe WriteUp: Recovery
+[CTF Writeup: CICD GOAT | Part 1](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)
+Honing The Scripting: AdventOfCode-2015[:5]
+CTF WriteUp: Pentathon 2024
+CTF WriteUp: VishwaCTF 2024
+CTF WriteUp: TFC CTF 2023
+CTF WriteUp: BDSec 2023
+CTF WriteUp: WaniCTF 2023
+CTF WriteUp: HTB CA 2023
+Boot2Root CTF WriteUp : Pwn2Own
+TryHackMe WriteUp: Recovery
 
 
 <h3 align="left">Connect with me:</h3>
