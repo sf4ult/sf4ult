@@ -11,8 +11,8 @@ dfasdf
 
 ### Blogs posts
 
-[CTF Writeup: CICD GOAT | Part 1](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)
-[Honing The Scripting: AdventOfCode-2015[:5]](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)
+[CTF Writeup: CICD GOAT | Part 1](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)\
+[Honing The Scripting: AdventOfCode-2015[:5]](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)\
 CTF WriteUp: Pentathon 2024
 CTF WriteUp: VishwaCTF 2024
 CTF WriteUp: TFC CTF 2023
