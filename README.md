@@ -5,15 +5,24 @@
 
 <p align="left"> <a href="https://twitter.com/durge5h" target="blank"><img src="https://img.shields.io/twitter/follow/durge5h?logo=twitter&style=for-the-badge" alt="durge5h" /></a> </p>
 
-- 📝 I regularly write articles on [sf4ult.github.io](sf4ult.github.io)
+## About Me
 
-- 📄 Know about my experiences [example.com](example.com)
-
-- ⚡ Fun fact **something is fun**
+dfasdf
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+
+    [CTF Writeup: CICD GOAT | Part 1](https://sf4ult.github.io/2024/06/27/post10/CICD-GOAT-Part-1/)
+    Honing The Scripting: AdventOfCode-2015[:5]
+    CTF WriteUp: Pentathon 2024
+    CTF WriteUp: VishwaCTF 2024
+    CTF WriteUp: TFC CTF 2023
+    CTF WriteUp: BDSec 2023
+    CTF WriteUp: WaniCTF 2023
+    CTF WriteUp: HTB CA 2023
+    Boot2Root CTF WriteUp : Pwn2Own
+    TryHackMe WriteUp: Recovery
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
