@@ -31,6 +31,7 @@ dfasdf
 <a href="https://discord.gg/durge5h#5496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="durge5h#5496" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Github Stacks:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durge5h&show_icons=true&locale=en&layout=compact" alt="durge5h" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durge5h&show_icons=true&locale=en" alt="durge5h" /></p>
